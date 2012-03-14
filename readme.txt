@@ -15,6 +15,12 @@ External Related Posts takes the category, tags or custom taxonomy from your pos
 
 Controls exist for how many blogs to search for, whether to only post links to blogs that accept pingbacks, how many pingbacks to perform, and a randomizer for how often External Related Posts activates (e.g., every post, 50% of your posts, 25% of your posts).
 
+Github: https://github.com/mintindeed/external-related-posts
+
+WordPress.org: http://wordpress.org/extend/plugins/external-related-posts/
+
+Image by [Toban Black](http://www.flickr.com/photos/tobanblack/3773116901/); some rights reserved.  See link for details.
+
 == Installation ==
 
 Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.  Alternately, use automatic installation from WordPress's admin screens.
